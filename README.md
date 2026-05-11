@@ -39,7 +39,6 @@ Compose, passionate about crafting clean, user-friendly cross-platform and nativ
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmrAshraf-git&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmrAshraf-git&theme=radical" />
 </p>
 
